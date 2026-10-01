@@ -390,6 +390,24 @@ img {
     color: #777;
 }
 
+.project-link {
+    display: inline-block;
+    margin-top: 18px;
+
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: .02em;
+
+    color: #111;
+    text-decoration: none;
+
+    transition: transform .3s ease;
+}
+
+.project-card:hover .project-link {
+    transform: translateX(5px);
+}
+
 .process-image {
     background: #111;
 

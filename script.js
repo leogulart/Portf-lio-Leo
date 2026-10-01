@@ -50,58 +50,58 @@ const projects = {
     },
 
 
-    sim: {
+ sim: {
 
-        number: "02",
+    number: "02",
 
-        title: "Super App SIM",
+    title: "Super App SIM",
 
-        category: "Product · Customer Experience · Dados",
+    category: "Product · B2C · Dados · Operação",
 
-        intro:
-            "Atuação na evolução do Super App SIM, conectando usuários, operação, dados e tecnologia para melhorar a experiência do produto.",
+    intro:
+        "Atuação na evolução do Super App SIM, conectando necessidades de usuários, operação, dados e tecnologia para apoiar decisões e melhorias na experiência do produto.",
 
-        contextTitle: "Contexto",
+    contextTitle: "Contexto",
 
-        context:
-            "O Super App SIM concentra funcionalidades relacionadas à experiência dos clientes da Rede SIM, incluindo ofertas, promoções, benefícios, compras e localização de postos. Minha atuação aconteceu próxima ao produto, aos usuários e também à operação interna do sistema.",
+    context:
+        "O Super App SIM reúne funcionalidades voltadas à experiência dos clientes da Rede SIM, como ofertas, promoções, benefícios, compras e localização de postos. Minha atuação esteve próxima do produto, dos usuários e da operação interna, participando da organização de demandas, configuração de funcionalidades e acompanhamento da evolução do aplicativo.",
 
-        roleTitle: "Minha atuação",
+    roleTitle: "Minha atuação",
 
-        role: [
-            "Apoio ao Product Owner no levantamento, organização e priorização de requisitos.",
-            "Contato com usuários e áreas internas para identificar necessidades e oportunidades de melhoria.",
-            "Acompanhamento de demandas e evolução do produto.",
-            "Atuação no backoffice, sistema interno utilizado para operação do produto.",
-            "Registro e configuração de diferentes variações de promoções.",
-            "Criação e gestão de cupons de desconto.",
-            "Análise de dados para compreender comportamento dos usuários e desempenho das ações.",
-            "Documentação de informações e acompanhamento das tarefas utilizando Jira.",
-            "Comunicação entre áreas de negócio, usuários e equipe de tecnologia."
-        ],
+    role: [
+        "Apoio ao Product Owner no levantamento, organização e priorização de requisitos.",
+        "Contato com usuários e áreas internas para identificar necessidades, problemas e oportunidades de melhoria.",
+        "Acompanhamento de demandas e evolução das funcionalidades do produto.",
+        "Atuação no backoffice utilizado para operação, configuração e gerenciamento de funcionalidades do aplicativo.",
+        "Cadastro e configuração de diferentes formatos de promoções dentro do produto.",
+        "Criação e configuração de cupons de desconto.",
+        "Análise de dados para compreender comportamento dos usuários e desempenho das ações.",
+        "Documentação de informações, requisitos e demandas utilizando Jira.",
+        "Interface entre áreas de negócio, usuários e equipe de tecnologia para alinhamento das demandas."
+    ],
 
-        images: [
-            "images/appredesim.jpg",
-            "images/sim-01.jpg",
-            "images/sim-02.jpg",
-            "images/sim-03.jpg"
-        ],
+    images: [
+        "images/appredesim.jpg",
+        "images/sim-01.jpg",
+        "images/sim-02.jpg",
+        "images/sim-03.jpg"
+    ],
 
-        imageCaptions: [
-            "Experiência do usuário no Super App SIM",
-            "Ofertas e promoções",
-            "Localização de postos",
-            "Experiência e funcionalidades do produto"
-        ],
+    imageCaptions: [
+        "Experiência do usuário no Super App SIM",
+        "Ofertas e promoções",
+        "Localização de postos",
+        "Funcionalidades e operação do produto"
+    ],
 
-        process: [
-            "Entendimento do usuário",
-            "Requisitos e operação",
-            "Dados e análise",
-            "Evolução do produto"
-        ]
-    },
-
+    process: [
+        "Entendimento do usuário",
+        "Levantamento de requisitos",
+        "Operação e configuração",
+        "Dados e análise",
+        "Evolução do produto"
+    ]
+},
 
     simplifica: {
 
